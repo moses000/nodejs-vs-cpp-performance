@@ -67,7 +67,7 @@ We welcome contributions to improve this project!
 
 ## **🔗 Connect with Me**  
 - 🔥 GitHub: (https://github.com/moses000)
-📝 Medium: medium.com/@yourhandle 
+📝 Medium: medium.com/@ 
 - 🌎 Blog: (https://imoleayomoses.com/blog)  
 
 ⭐ **If you found this project useful, please star this repository!** 🚀🔥  

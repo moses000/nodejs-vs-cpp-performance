@@ -15,3 +15,4 @@ console.timeEnd("JS Fibonacci");
 console.time("C++ Fibonacci");
 console.log(addon.fibonacci(40));
 console.timeEnd("C++ Fibonacci");
+
